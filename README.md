@@ -3,10 +3,13 @@ Eu sou Desenvolvedor Full Stack em constante aprendizado e apaixonado por tecnol
 
 <div align="center">
   <a href="https://github.com/humbertodecarvalho">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=humbertodecarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=628fdb"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertodecarvalho&layout=compact&langs_count=7&theme=tokyonight&border_color=628fdb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertodecarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=628fdb"/>
+    
+<!--   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertodecarvalho&layout=compact&langs_count=7&theme=tokyonight&border_color=628fdb"/>
+ -->
 </div>
- 
+
+    
 <div>
   <a href="https://www.linkedin.com/in/humbertodecarvalho-45875016a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:humbertodecarvalhodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
