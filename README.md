@@ -3,8 +3,8 @@ Eu sou Desenvolvedor Full Stack em constante aprendizado e apaixonado por tecnol
 
 <div align="center">
   <a href="https://github.com/humbertodecarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertodecarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=628fdb"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertodecarvalho&layout=compact&langs_count=7&theme=tokyonight&border_color=628fdb"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=humbertodecarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=628fdb"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertodecarvalho&layout=compact&langs_count=7&theme=tokyonight&border_color=628fdb"/>
 </div>
  
 <div>
