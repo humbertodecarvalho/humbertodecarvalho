@@ -1,6 +1,6 @@
 ## Olá eu sou o Humberto 👋
 
-Eu sou Desenvolvedor Full Stack em constante aprendizado e apaixonado por tecnologia e inovação, estou sempre em busca de conhecimentos que me possibilitem expandir minha capacidade tecnica e interpessoal.
+Eu sou Desenvolvedor Web Full Stack em constante aprendizado e apaixonado por tecnologia e inovação, estou sempre em busca de conhecimentos que me possibilitem expandir minha capacidade tecnica e interpessoal.
 
 <div>
   <a href="https://github.com/humbertodecarvalho">
